@@ -1,0 +1,32 @@
+{
+  "name": "prompt-injection-agent-demo",
+  "version": "1.0.0",
+  "description": "Runnable demos and tests for every claim in 'Prompt Injection Against AI Agents'. Offline, no API key, zero dependencies.",
+  "keywords": [
+    "prompt-injection",
+    "ai-agents",
+    "llm-security",
+    "lethal-trifecta",
+    "mcp",
+    "tool-poisoning",
+    "data-exfiltration"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrtezaAsadRizvi/prompt-injection-agent-demo.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "demo:naive": "node demos/naive.js",
+    "demo:hardened": "node demos/hardened.js",
+    "demo:exfil": "node demos/image-exfil.js",
+    "demo:bypass": "node demos/classifier-bypass.js",
+    "fixtures": "node scripts/make-hidden-tags.js",
+    "test": "node --test"
+  }
+}
