@@ -10,7 +10,7 @@
 
 **See prompt injection attacks on AI agents happen, then see which defenses actually stop them. Every example runs on your laptop in under a minute, with no API key, no install and no dependencies.**
 
-This is the companion repository for the article **[Prompt Injection Against AI Agents](ARTICLE_URL)**. Each claim in the article has a demo you can watch and a test that proves it:
+This is the companion repository for the article **[Prompt Injection Against AI Agents](https://irtezaasadrizvi.medium.com/prompt-injection-against-ai-agents-8acd2df13d00?postPublishedType=initial)**. Each claim in the article has a demo you can watch and a test that proves it:
 
 - 🔓 An AI agent leaks a CI token after reading a poisoned build log
 - 🖼️ A markdown image steals a secret without the agent calling a single tool
