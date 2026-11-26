@@ -1,6 +1,6 @@
 # Prompt Injection Against AI Agents: Runnable Demos and Defenses
 
-[![Read the article](https://img.shields.io/badge/Read%20the%20article-Prompt%20Injection%20Against%20AI%20Agents-D97757?style=for-the-badge)](ARTICLE_URL)
+[![Read the article](https://img.shields.io/badge/Read%20the%20article-Prompt%20Injection%20Against%20AI%20Agents-D97757?style=for-the-badge)](https://irtezaasadrizvi.medium.com/prompt-injection-against-ai-agents-8acd2df13d00)
 
 [![Node.js](https://img.shields.io/badge/node-%3E%3D22.18-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-2EA44F?style=flat-square)](package.json)
